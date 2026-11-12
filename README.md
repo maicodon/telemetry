@@ -1,4 +1,4 @@
-# telemetry# 🌤️ Live Weather Telemetry Dashboard
+# telemetry 🌤️ Live Weather Telemetry Dashboard
 
 A modern, production-ready, and secure weather tracking web application built with Vanilla JavaScript, HTML5, CSS3, and serverless architecture. Designed with a glassmorphism UI that dynamically adapts its background and theme based on real-time meteorological telemetry and local time.
 
